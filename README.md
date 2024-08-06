@@ -45,7 +45,10 @@ Industrial Engineer with solid experience in process optimization and data proce
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-parra-palacios-/)
 
 ## 📈 Mis Estadísticas de GitHub
+
 ![Estadísticas de GitHub de Alejandro](https://github-readme-stats.vercel.app/api?username=AlejandroParraPalacios&show_icons=true&theme=default)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroParraPalacios&layout=compact)
+
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos. Siempre estoy abierto a colaborar en nuevas y emocionantes oportunidades.
