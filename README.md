@@ -2,7 +2,11 @@
 
 ![Banner de Alejandro Parra Palacios](Banner.png)
 
-Industrial Engineer with solid experience in process optimization and data processing. I have consolidated technical skills as a data engineer, specializing in the design and development of architectures, efficient pipelines (ETL), dashboards, and Machine Learning models for innovative data management and analysis solutions. My approach combines analytical skills with industrial experience, guaranteeing operational efficiency and data-driven decision-making that generates a positive impact on the company's productivity.
+Data Engineer with experience designing and implementing scalable cloud data architectures using Azure, Databricks,
+and Microsoft Fabric. Strong background in ETL/ELT development, medallion architecture (Bronze–Silver–Gold),
+dimensional modeling, and Big Data processing with Python and PySpark. Experienced integrating enterprise data
+from Oracle Fusion ERP, optimizing large-scale data pipelines, automating data quality processes, and enabling analytics
+and machine learning workflows across distributed systems.
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de Programación:** Python, R, JavaScript, Java, VBA
