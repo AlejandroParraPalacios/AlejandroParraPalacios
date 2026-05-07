@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Alejandro Parra Palacios]
+# ¡Hola! 👋 Soy Alejandro Parra Palacios
 
 ![Banner de Alejandro Parra Palacios](Banner.png)
 
@@ -9,30 +9,26 @@ from Oracle Fusion ERP, optimizing large-scale data pipelines, automating data q
 and machine learning workflows across distributed systems.
 
 ## 🔧 Tecnologías y Herramientas
-- **Lenguajes de Programación:** Python, R, JavaScript, Java, VBA
-- **Visualización de Datos:** Power BI, Microsoft Excel, Oracle OTBI
-- **Data Engineering:** ETL, Apache Hop, Airflow
-- **Bases de Datos:** MySQL, Oracle, Postgres
-- **Desarrollo Web:** HTML, CSS
-- **Otros:** Docker
+
+- **Lenguajes de Programación:** Python, Scala, SQL, PySpark, R, JavaScript, Java
+- **Cloud & Big Data:** Azure, Databricks, Microsoft Fabric, Snowflake
+- **Orquestación:** Apache Airflow, Azure Data Factory
+- **Data Engineering:** ETL/ELT, Medallion Architecture, Star Schema
+- **Visualización de Datos:** Power BI, Oracle OTBI
+- **Bases de Datos:** Oracle Fusion, SQL Server, PostgreSQL, MySQL, MongoDB
+- **DevOps & Otros:** Docker, Git, CI/CD, Linux
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;"/></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" style="margin-right: 10px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-right: 10px;"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="margin-right: 10px;"/></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin-right: 10px;"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" style="margin-right: 10px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-right: 10px;"/></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" style="margin-right: 10px;"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="margin-right: 10px;"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="margin-right: 10px;"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-right: 10px;"/></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" style="margin-right: 10px;"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="margin-right: 10px;"/></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="margin-right: 10px;"/></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,scala,r,js,java,git,vscode,html,flask,azure,docker,linux,postgres,mysql,mongodb,snowflake,tensorflow" />
+  </a>
 </p>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ## 🌱 Actualmente Aprendiendo
 - Aplicaciones avanzadas de Machine Learning e Inteligencia Artificial
@@ -40,7 +36,7 @@ and machine learning workflows across distributed systems.
 
 ## 💪 Habilidades Clave
 - **Mejora de Procesos**
-- **Inglés Profesional**
+- **Inglés Profesional (B2)**
 - **Resolución de Problemas**
 - **Mentalidad de Crecimiento**
 
@@ -50,9 +46,8 @@ and machine learning workflows across distributed systems.
 
 ## 📈 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub de Alejandro](https://github-readme-stats.vercel.app/api?username=AlejandroParraPalacios&show_icons=true&theme=default)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroParraPalacios&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroParraPalacios&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroParraPalacios&layout=compact&theme=tokyonight&hide_border=true)
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos. Siempre estoy abierto a colaborar en nuevas y emocionantes oportunidades.
