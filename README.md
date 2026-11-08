@@ -1,17 +1,17 @@
 <!--
-  Perfil de GitHub · Alejandro Parra Palacios
-  Las tarjetas de /profile se generan con .github/workflows/readme-cards.yml (diario).
-  La primera vez: pestaña Actions → "Actualizar tarjetas del perfil" → Run workflow.
+  GitHub Profile · Alejandro Parra Palacios
+  Cards in /profile are generated daily by .github/workflows/readme-cards.yml.
+  First time: Actions tab → "Actualizar tarjetas del perfil" → Run workflow.
 -->
 
 <div align="center">
 
-# ¡Hola! 👋 Soy Alejandro Parra Palacios
+# Hi there! 👋 I'm Alejandro Parra Palacios
 
-![Banner de Alejandro Parra Palacios](Banner.png)
+![Alejandro Parra Palacios banner](Banner.png)
 
 <a href="https://github.com/AlejandroParraPalacios">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Senior+AI+%26+Data+Engineer+%40+EY;Arquitecturas+Medallion+%C2%B7+Azure+%C2%B7+Databricks+%C2%B7+GCP;Python+%C2%B7+PySpark+%C2%B7+SQL+%C2%B7+Airflow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Senior+AI+%26+Data+Engineer+%40+EY;Medallion+Architectures+%C2%B7+Azure+%C2%B7+Databricks+%C2%B7+GCP;Python+%C2%B7+PySpark+%C2%B7+SQL+%C2%B7+Airflow" alt="Typing SVG" />
 </a>
 
 <p>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Cali-Colombia-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" alt="Cali, Colombia" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AlejandroParraPalacios&label=Visitas+al+perfil&color=7aa2f7&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=AlejandroParraPalacios&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -32,39 +32,39 @@ dimensional modeling, and Big Data processing with Python and PySpark. Experienc
 from Oracle Fusion ERP, optimizing large-scale data pipelines, automating data quality processes, and enabling analytics
 and machine learning workflows across distributed systems.
 
-## 🧭 Sobre mí
+## 🧭 About Me
 
-- 💼 Actualmente **Senior AI & Data Engineer en EY (Ernst & Young)**.
-- 🏭 Antes, **Data Engineer en Carvajal S.A.**, integrando datos empresariales desde Oracle Fusion ERP.
-- 🎓 Posgrado en curso en el **Tecnológico de Monterrey** · Especialización en Analítica de Big Data (UAO) · Ingeniero Industrial (USC).
-- 🌎 Basado en **Cali, Colombia** · Español nativo · Inglés profesional (B2).
+- 💼 Currently a **Senior AI & Data Engineer at EY (Ernst & Young)**.
+- 🏭 Previously a **Data Engineer at Carvajal S.A.**, integrating enterprise data from Oracle Fusion ERP.
+- 🎓 Graduate studies in progress at **Tecnológico de Monterrey** · Specialization in Big Data Analytics (UAO) · B.Sc. in Industrial Engineering (USC).
+- 🌎 Based in **Cali, Colombia** · Native Spanish · Professional English (B2).
 
-## 🏗️ Cómo diseño pipelines
+## 🏗️ How I Design Pipelines
 
 ```mermaid
 flowchart LR
-    S["Fuentes<br/>Oracle Fusion ERP · APIs · Archivos"] --> B[("🥉 Bronze<br/>datos crudos")]
-    B --> SV[("🥈 Silver<br/>limpios y conformados")]
-    SV --> G[("🥇 Gold<br/>modelo dimensional")]
+    S["Sources<br/>Oracle Fusion ERP · APIs · Files"] --> B[("🥉 Bronze<br/>raw data")]
+    B --> SV[("🥈 Silver<br/>cleaned & conformed")]
+    SV --> G[("🥇 Gold<br/>dimensional model")]
     G --> BI["📊 Power BI · Apps"]
-    G --> ML["🤖 ML / IA"]
-    O{{"⚙️ Airflow · Data Factory"}} -.orquesta.-> B
+    G --> ML["🤖 ML / AI"]
+    O{{"⚙️ Airflow · Data Factory"}} -.orchestrates.-> B
     O -.-> SV
     O -.-> G
-    Q["✅ Data Quality"] -.valida.-> SV
+    Q["✅ Data Quality"] -.validates.-> SV
 ```
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Tech Stack & Tools
 
-| Área | Stack |
+| Area | Stack |
 | :--- | :--- |
-| **Lenguajes** | Python, Scala, SQL, PySpark, R, JavaScript, Java |
+| **Languages** | Python, Scala, SQL, PySpark, R, JavaScript, Java |
 | **Cloud & Big Data** | Azure, Databricks, Microsoft Fabric, Snowflake, GCP (BigQuery, Cloud Run) |
-| **Orquestación** | Apache Airflow, Azure Data Factory |
+| **Orchestration** | Apache Airflow, Azure Data Factory |
 | **Data Engineering** | ETL/ELT, Medallion Architecture, Star Schema |
-| **Visualización** | Power BI, Oracle OTBI |
-| **Bases de Datos** | Oracle Fusion, SQL Server, PostgreSQL, MySQL, MongoDB |
-| **DevOps & Otros** | Docker, Git, CI/CD, Linux |
+| **Visualization** | Power BI, Oracle OTBI |
+| **Databases** | Oracle Fusion, SQL Server, PostgreSQL, MySQL, MongoDB |
+| **DevOps & Other** | Docker, Git, CI/CD, Linux |
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -80,47 +80,47 @@ flowchart LR
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-## 🗺️ Trayectoria
+## 🗺️ Career Path
 
-| Periodo | Rol | Organización |
+| Period | Role | Organization |
 | :--- | :--- | :--- |
-| Actual | Senior AI & Data Engineer | EY (Ernst & Young) |
+| Present | Senior AI & Data Engineer | EY (Ernst & Young) |
 | 06/2024 – 03/2026 | Data Engineer | Carvajal S.A. |
-| 2026 – en curso | Posgrado | Tecnológico de Monterrey |
-| 2024 – 2025 | Especialización en Analítica de Big Data | Universidad Autónoma de Occidente |
-| 2018 – 2023 | Ingeniería Industrial | Universidad Santiago de Cali |
+| 2026 – Present | Graduate Studies | Tecnológico de Monterrey |
+| 2024 – 2025 | Specialization in Big Data Analytics | Universidad Autónoma de Occidente |
+| 2018 – 2023 | B.Sc. in Industrial Engineering | Universidad Santiago de Cali |
 
-## 🌱 Actualmente Aprendiendo
-- Aplicaciones avanzadas de Machine Learning e Inteligencia Artificial
-- Integración de LLMs y agentes (MCP) sobre plataformas de datos
-- Nuevas herramientas y técnicas de desarrollo de software
+## 🌱 Currently Learning
+- Advanced applications of Machine Learning and Artificial Intelligence
+- Integrating LLMs and agents (MCP) with data platforms
+- New software development tools and techniques
 
-## 💪 Habilidades Clave
-- **Mejora de Procesos**
-- **Inglés Profesional (B2)**
-- **Resolución de Problemas**
-- **Mentalidad de Crecimiento**
+## 💪 Key Skills
+- **Process Improvement**
+- **Professional English (B2)**
+- **Problem Solving**
+- **Growth Mindset**
 
-## 📫 Cómo Contactarme
+## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.alejandroparrapalacios@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-parra-palacios-/)
 
-## 📈 Mis Estadísticas de GitHub
+## 📈 My GitHub Stats
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <img height="170" src="./profile/stats-light.svg" alt="Estadísticas de GitHub" />
+  <img height="170" src="./profile/stats-light.svg" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-  <img height="170" src="./profile/top-langs-light.svg" alt="Lenguajes más usados" />
+  <img height="170" src="./profile/top-langs-light.svg" alt="Top languages" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlejandroParraPalacios&theme=tokyonight&hide_border=true&locale=es" />
-  <img src="https://streak-stats.demolab.com?user=AlejandroParraPalacios&theme=default&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlejandroParraPalacios&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AlejandroParraPalacios&theme=default&hide_border=true" alt="Contribution streak" />
 </picture>
 
 </div>
@@ -129,7 +129,7 @@ flowchart LR
 
 <div align="center">
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos.<br/>
-Siempre estoy abierto a colaborar en nuevas y emocionantes oportunidades.
+Thanks for visiting my profile! Feel free to explore my repositories and projects.<br/>
+I'm always open to collaborating on new and exciting opportunities.
 
 </div>
